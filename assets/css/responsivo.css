@@ -27,7 +27,7 @@
     }
 
     .populares__card{
-        width: 78vw;
+        width: 80vw;
         max-width: 600px;
         margin-bottom: 3rem;
     }
@@ -38,20 +38,22 @@
         font-size: .9rem;
     }
     .destaques__principal{
-        width: 78vw;
+        width: 80vw;
         max-width: 600px;
         margin-bottom: 2.5rem;
     }
     
     .destaques__categorias{
-        width: 78vw;
+        width: 80vw;
         max-width: 600px;
     }
 
     .populares__header{
-        width: 78vw;
+        width: 80vw;
         max-width: 600px;
     }
+
+  
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
