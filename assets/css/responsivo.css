@@ -10,6 +10,11 @@
         grid-row: none;
     }
 
+    .app{
+        width: 100vw;
+        max-width: 600px;
+    }
+
     .destaques__principal,
     .destaques__categorias
     {
@@ -22,7 +27,8 @@
     }
 
     .populares__card{
-        width: 100%;
+        width: 78vw;
+        max-width: 600px;
         margin-bottom: 3rem;
     }
 
@@ -30,6 +36,21 @@
         padding: .1rem .1rem;
         margin-right: .5rem;
         font-size: .9rem;
+    }
+    .destaques__principal{
+        width: 78vw;
+        max-width: 600px;
+        margin-bottom: 2.5rem;
+    }
+    
+    .destaques__categorias{
+        width: 78vw;
+        max-width: 600px;
+    }
+
+    .populares__header{
+        width: 78vw;
+        max-width: 600px;
     }
 }
 
