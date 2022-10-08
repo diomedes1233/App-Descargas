@@ -44,7 +44,6 @@
 }
 
 .populares__card___descripcion{
-    width: auto;
     display: flex;
     flex-wrap: wrap;
     grid-area: card-description;
@@ -53,7 +52,6 @@
     line-height: 1.5;
     margin: 1rem .5rem;
     text-align: justify;
-    
 }
 
 
@@ -78,7 +76,6 @@
 .populares__header{
     display: flex;
     justify-content: space-between;
-    width: 93vw;
 }
 
 .populares__card___header{
