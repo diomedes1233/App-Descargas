@@ -78,6 +78,7 @@
 .populares__header{
     display: flex;
     justify-content: space-between;
+    width: 93vw;
 }
 
 .populares__card___header{
