@@ -1,11 +1,9 @@
-.populares{
-    padding: 3rem 0;
-}
 
 .populares__contenido{
     display: flex;
     flex-wrap: wrap;
     padding: 1rem 0rem;
+    width: 100%;
 }
 
 .populares__card{
@@ -76,6 +74,8 @@
 .populares__header{
     display: flex;
     justify-content: space-between;
+    width: 98%;
+    padding: 1rem 0;
 }
 
 .populares__card___header{

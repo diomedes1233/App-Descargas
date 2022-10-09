@@ -21,23 +21,24 @@
         flex-direction: column;
     }
 
-    .populares__card{
-        width: 80vw;
-        max-width: 600px;
-        margin-bottom: 3rem;
-    }
-
     .menu__link {
         padding: .1rem .1rem;
         margin-right: .5rem;
         font-size: .9rem;
     }
+
     .destaques__principal{
         width: 80vw;
         max-width: 600px;
         margin-bottom: 2.5rem;
     }
     
+    .populares__card{
+        width: 80vw;
+        max-width: 600px;
+        margin-bottom: 3rem;
+    }
+
     .destaques__categorias{
         width: 80vw;
         max-width: 600px;
@@ -50,7 +51,7 @@
 
   .populares__card___descripcion{
     width: 70vw;
-    max-width: 600px;
+    
   }
 
   .populares__card___titulo{
@@ -60,6 +61,11 @@
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 /* @media only screen and (min-width: 600px) {...} */
+
+/* Medium devices (!Phone6/7/8, 667px and up) */
+/* @media only screen and (min-width: 667px) {} */
+
+
 
 /* Medium devices (landscape tablets, 768px and up) */
 /* @media only screen and (min-width: 768px) {...} 
